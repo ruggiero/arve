@@ -1,4 +1,4 @@
-# arve
+## About
 
 I was wondering about trees, so I decided to make a program that
 can generate trees using simple rules. `arve` is the result.
