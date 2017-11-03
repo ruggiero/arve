@@ -20,6 +20,10 @@ free parameters:
 You don't have to memorize the keys, just note the pattern they make
 on the keyboard and try one by one to find out what which pair does.
 
+## Example
+
+![Sierpinski Triangle to tree](https://ruggiero.github.io/images/arve_example.gif)
+
 ## Compilation
 
 You're going to need GLUT for compiling, e.g. 
