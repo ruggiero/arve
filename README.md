@@ -17,8 +17,8 @@ free parameters:
     r: reset everything
     right click: recenter image
 
-You don't have to know what each key does, just note the pattern they
-make on the keyboard and randomly press them to find out what they do.
+You don't have to memorize the keys, just note the pattern they make
+on the keyboard and try one by one to find out what which pair does.
 
 ## Compilation
 
