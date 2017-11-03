@@ -57,11 +57,11 @@ void keyboard(unsigned char key, int x, int y)
       windowx = 0.5, windowy = 0.5; // position of center of window
       glutPostRedisplay();
       break;
-    case '1':
+    case '3':
       nleaf += 1;
       glutPostRedisplay();
       break;
-    case '3':
+    case '1':
       nleaf -= 1;
       glutPostRedisplay();
       break;
