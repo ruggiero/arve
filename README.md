@@ -22,7 +22,7 @@ on the keyboard and try one by one to find out what which pair does.
 
 ## Example
 
-![Sierpinski Triangle to tree](https://ruggiero.github.io/images/arve_example.gif | width=400)
+![Sierpinski Triangle to tree](https://ruggiero.github.io/images/arve_example.gif)
 
 ## Compilation
 
